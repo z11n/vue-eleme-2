@@ -1,24 +1,24 @@
 # vue-eleme
 
-## Project setup
+## 技术栈
+
+vue2 + vue-router + vue-cli  + axios + stylus
+
+## 项目运行
+
 ```
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
 
-### Compiles and minifies for production
-```
 npm run build
+
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+# 效果演示
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[查看 demo 请戳这里](http://eleme.tianyuan233.com)（请用 chrome 手机模式预览）
+
+### 移动端扫描下方二维码
+
+<img src="http://www.tianyuan233.com/static/img/qrcode.png" width="250" height="250"/>
